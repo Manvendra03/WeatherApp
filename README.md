@@ -1,4 +1,4 @@
-# Simple Weather App for SteelKiwi
+# Simple Weather App 
 
 ## Features
 - Loads weather data including icons from openweather.org 
