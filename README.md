@@ -20,7 +20,7 @@
 
 - You can also use "flutter build apk --release" in the terminal of your development environment
 
-![combine_images (2)](https://user-images.githubusercontent.com/15833765/200519064-e476228b-7ff8-4d6e-a27c-392c34a175ad.png)
+<!-- ![combine_images (2)](https://user-images.githubusercontent.com/15833765/200519064-e476228b-7ff8-4d6e-a27c-392c34a175ad.png) -->
 
 
  
